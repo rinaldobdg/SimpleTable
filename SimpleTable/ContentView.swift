@@ -26,7 +26,7 @@ struct ContentView: View {
                 
             }
         }
-        //.listStyle(.plain)
+        .listStyle(.plain)
     }
 }
 
